@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [project]">
+  <test thread-count="5" name="Testsack(failed)">
+    <classes>
+      <class name="com.testng.Sackalertsign">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="membership"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.testng.Sackalertsign -->
+    </classes>
+  </test> <!-- Testsack(failed) -->
+</suite> <!-- Failed suite [project] -->

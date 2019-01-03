@@ -1,0 +1,3 @@
+FirefoxDriver=C:\\Users\\admin\\Downloads\\geckodriver.exe
+url=https://www.sackalerts.world/
+excelpath=./Exceldata/DataDriven.xlsx
